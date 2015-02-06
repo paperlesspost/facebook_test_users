@@ -1,3 +1,5 @@
+**Note that this fork is not currently maintained.  Please refer to [smerritt/facebook_test_users](https://github.com/smerritt/facebook_test_users)**
+
 # A gem to ease the pain of managing Facebook test users
 
 Testing Facebook apps is hard; part of that difficulty comes from
